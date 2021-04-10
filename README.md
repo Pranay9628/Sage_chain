@@ -83,6 +83,15 @@ Team Name: sallufam
 * [Siddhant Tripathi](https://github.com/tsiddhant)
 * [Vedant Gupta](https://github.com/iamvedant)
 
+## PPT link:-
+
+https://drive.google.com/file/d/10gl9MF09TxiUpobLf_WBWqKKfCZuhEaz/view?usp=sharing
+
+
+## Video link:-
+
+https://youtu.be/Oab7tzqf0WA
+
 
 ### Made at:
 <a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
