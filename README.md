@@ -42,8 +42,25 @@
   <a href="https://ibb.co/yWfcVZK"><img src="https://i.ibb.co/r47Rvzq/Sherwyn.png" alt="System Architecture" border="0"></a><br />
 
   ## Setup/Installation
-    For running node files:
-    1)node install #hj
+  
+    (I)Download Gnache Wallet for Ethereum and create a workspace.
+    
+    (II)Add Metamask Chrome Extension.
+    
+    (III)Downloal IPFS Desktop.
+    
+    (IV)For running node files do foolowing in 1 terminal:
+        1)cd blockchain
+        2)node install ###to install node_modules
+        3)npm start 
+    
+    (V)For deploying contracts in blockchain in 2nd terminal:
+        1)truffle migrate --reset
+    
+    (VI)For running python files to enable Flask server in 3rd terminal:
+        1)Download all python packages in env ###virtualenv
+        2).\env\Scripts\activate.bat
+        3)python app.py
 
 ## Technology Stack:
   1) React.js
