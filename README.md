@@ -42,7 +42,8 @@
   <a href="https://ibb.co/yWfcVZK"><img src="https://i.ibb.co/r47Rvzq/Sherwyn.png" alt="System Architecture" border="0"></a><br />
 
   ## Setup/Installation
-    ...
+    For running node files:
+    1)node install #hj
 
 ## Technology Stack:
   1) React.js
